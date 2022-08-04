@@ -1,3 +1,5 @@
+:warning: Moved to [**Codeberg**](https://codeberg.org/Cyanic76/discord-modmail).
+
 # Discord.JS 14 Modmail
 
 A modmail with rich features using the latest discord.js version.
